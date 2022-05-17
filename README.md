@@ -1,2 +1,2 @@
-# ML_DL_Projects-NLP
+# ML_DL_Projects
 Practice problems on machine learning and deep learning
